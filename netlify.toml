@@ -2,8 +2,5 @@
   command = "yarn run build"
   publish = "dist"
 
-[build.environment]
-NODE_VERSION = “11.0.0”
-
 [template.environment]
   MEDIUM_FEED = "https://medium.com/feed/memory-leak"
