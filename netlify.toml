@@ -3,4 +3,4 @@
   publish = "dist"
 
 [template.environment]
-  MEDIUM_FEED = "https://medium.com/feed/netlify"
+  MEDIUM_FEED = "https://medium.com/feed/@tjwest3"
