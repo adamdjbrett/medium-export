@@ -53,3 +53,7 @@ yarn start
 yarn run build
 
 ```
+
+### proof of concept
+- I got it working by setting netlify environment variable to ```NODE_VERSION = 8.0.0```
+- proof <https://wonderful-pony-bf007f.netlify.app/>
