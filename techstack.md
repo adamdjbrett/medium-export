@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 adamdjbrett/medium-export is built on the following main stack:
+
 - [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Netlify](https://www.netlify.com/) – Static Web Hosting
@@ -9,11 +10,13 @@ adamdjbrett/medium-export is built on the following main stack:
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 adamdjbrett/medium-export is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
@@ -21,14 +24,15 @@ adamdjbrett/medium-export is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [adamdjbrett/medium-export](https://github.com/adamdjbrett/medium-export)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|11/15/23 <br/>Report generated|
+|13<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -125,12 +129,13 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[cssnano](https://www.npmjs.com/cssnano)|v4.1.0|09/10/18|Phil Hawksworth |MIT|N/A|
 |[gulp-postcss](https://www.npmjs.com/gulp-postcss)|v8.0.0|09/10/18|Phil Hawksworth |MIT|N/A|
 |[precss](https://www.npmjs.com/precss)|v3.1.2|09/10/18|Phil Hawksworth |CC0-1.0|N/A|
 |[xml2js](https://www.npmjs.com/xml2js)|v0.4.19|09/10/18|Phil Hawksworth |MIT|[CVE-2023-0842](https://github.com/advisories/GHSA-776f-qx25-q3cc) (Moderate)|
@@ -138,4 +143,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
