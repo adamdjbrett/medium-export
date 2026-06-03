@@ -12,12 +12,17 @@
     "build": "gulp build && eleventy"
   },
   "dependencies": {
-    "@11ty/eleventy": "0.5.3",
+    "@11ty/eleventy": "^3.1.6",
     "axios": "^0.18.0",
-    "xml2js": "^0.4.19",
+    "cssnano": "^4.1.0",
     "gulp": "^4.0.0",
     "gulp-postcss": "^8.0.0",
     "precss": "^3.1.2",
-    "cssnano": "^4.1.0"
-  }
+    "xml2js": "^0.4.19"
+  },
+  "engines": {
+    "node": ">=24",
+    "npm": ">=11.14.0"
+  },
+  "packageManager": "npm@11.14.0"
 }
